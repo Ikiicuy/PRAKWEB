@@ -6,7 +6,7 @@ import "swiper/css/pagination";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import {forwardRef} from "react"
 import Fadeup from "../animasi/Fadeup"
-const testimonials = ["/public/tes1.jpg", "/public/tes2.jpg"]; // Tambahkan gambar jika perlu
+const testimonials = ["/tes1.jpg", "/tes2.jpg"]; // Tambahkan gambar jika perlu
 
 const Testimoni = forwardRef((props,ref)=>{
   return (
