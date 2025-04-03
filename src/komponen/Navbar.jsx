@@ -21,7 +21,7 @@ export default function Navbar({ refs }) {
         <div className="flex justify-between items-center py-4">
           <div className="avatar">
             <div className="h-8 object-cover w-48">
-              <img src="/public/logo2.png" className="shadow-amber-600 rounded-sm"/>
+              <img src="/logo2.png" className="shadow-amber-600 rounded-sm"/>
             </div>
           </div>
 
