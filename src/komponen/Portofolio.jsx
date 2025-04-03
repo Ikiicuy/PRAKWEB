@@ -3,11 +3,11 @@ import Fadeup from "../animasi/Fadeup"
 
 const portfolioItems = {
   barang: [
-    { title: "Landing Page Toko Baju", img: "/public/tes1.jpg", link: "#", desc:
+    { title: "Landing Page Toko Baju", img: "/tes1.jpg", link: "#", desc:
     "Cocok untuk bisnis yang menjual produk fisik seperti makanan,pakaian,gadget, dan lain-lain. Fokus pada tampilan menarik dan  call-to-action (CTA) yang kuat agar pelanggan lebih mudah melakukan  pembelian. contoh:" },
   ],
   jasa: [
-    { title: "Landing Page Freelance", img: "/public/tes1.jpg", link: "#", desc:
+    { title: "Landing Page Freelance", img: "/tes1.jpg", link: "#", desc:
     "Digunakan untuk mempromosikan layanan seperti freelance, kursus online, event, dan lainnya. Biasanya memiliki CTA yang mengarahkan pengunjung untuk menghubungi atau mendaftar layanan. contoh:" },
   ],
 };
